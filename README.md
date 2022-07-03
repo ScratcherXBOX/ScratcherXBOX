@@ -1,0 +1,3 @@
+- 👋 Hi, I’m **ScratcherXBOX**
+- 🌱 I’m currently learning **JavaScript**
+- 😎 I am very pro gamer
